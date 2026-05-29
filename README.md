@@ -1,4 +1,4 @@
-# -xian-gan
+# xian-gan
 「先干」帮你解决短视频创作中最难的部分：想选题、写文案、排节奏、查合规。你不需要任何创作经验，跟着 AI 的提问一步步回答就行。
 [README.md](https://github.com/user-attachments/files/28337288/README.md)
 # 先干
